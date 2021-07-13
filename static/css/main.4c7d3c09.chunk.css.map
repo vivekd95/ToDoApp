@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.scss"],"names":[],"mappings":"AAAA,cACE,qBAAsB,CACtB,iBAAkB,CAClB,WAAY,CACZ,WAAY,CACZ,eAAgB,CAChB,mBAAwB","file":"main.4c7d3c09.chunk.css","sourcesContent":[".task-wrapper {\n  border: 1px solid gray;\n  border-radius: 10%;\n  width: 180px;\n  height: 80px;\n  font-size: large;\n  margin: 10px 0px 0px 5px;\n}\n"]}
