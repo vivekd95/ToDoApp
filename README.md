@@ -4,19 +4,12 @@
 
 ### To run this project, Follow these steps:
 1.) Download it.\
-2.) Install npm in the directory via npm install.\
-3.) Open it in whatever IDE you want(mostly VSC) and use "ctrl+`" to open terminal and type npm start to run it in localhost.\
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+2.) Install npm in the client & server folders via npm install.\
+3.) Open it in whatever IDE you want(mostly VSC) & open two terminals.\
+4.) To run server, navigate to cd server in one terminal & run npm run start.\
+5.) To run client, navigate to cd client in one terminal & run npm run start.\
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.\
 
-Thank You. :) 
-
-
+Thank You. :)
